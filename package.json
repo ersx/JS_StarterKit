@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ersx/JS_StarterKit/issues"
   },
-  "homepage": "https://github.com/ersx/JS_StarterKit#readme"
+  "homepage": "https://github.com/ersx/JS_StarterKit#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.2",
+    "open": "0.0.5"
+  }
 }
